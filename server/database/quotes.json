@@ -1,127 +1,162 @@
 [
     {
+        "id": "1",
         "text": "Die einzige Grenze für unsere Verwirklichung von morgen werden unsere Zweifel von heute sein.",
         "author": "Franklin D. Roosevelt",
-        "category": "Motivation"
+        "category": "Motivation",
+        "likes": 0,
+        "comments": []
     },
     {
+        "id": "2",
         "text": "Das Leben ist, was passiert, während du eifrig dabei bist, andere Pläne zu machen.",
         "author": "John Lennon",
-        "category": "Leben"
+        "category": "Leben",
+        "likes": 0,
+        "comments": []
     },
     {
+        "id": "3",
         "text": "Wissen ist das teuerste auf der Erde.",
         "author": "Albert Einstein",
-        "category": "Wissen"
+        "category": "Wissen",
+        "likes": 0,
+        "comments": []
     },
     {
-        "text": "Das Leben ist, was passiert, während du eifrig dabei bist, andere Pläne zu machen.",
-        "author": "John Lennon",
-        "category": "Leben"
+        "id": "4",
+        "text": "Glück ist nicht etwas Fertiges. Es kommt von deinen eigenen Taten.",
+        "author": "Dalai Lama",
+        "category": "Glück",
+        "likes": 0,
+        "comments": []
     },
     {
-        "text": "Das Leben ist, was passiert, während du eifrig dabei bist, andere Pläne zu machen.",
-        "author": "John Lennon",
-        "category": "Leben"
+        "id": "5",
+        "text": "Der beste Weg, die Zukunft vorauszusagen, ist, sie zu gestalten.",
+        "author": "Abraham Lincoln",
+        "category": "Zukunft",
+        "likes": 0,
+        "comments": []
     },
     {
-        "text": "Das Leben ist, was passiert, während du eifrig dabei bist, andere Pläne zu machen.",
-        "author": "John Lennon",
-        "category": "Leben"
+        "id": "6",
+        "text": "Sei die Veränderung, die du in der Welt sehen möchtest.",
+        "author": "Mahatma Gandhi",
+        "category": "Veränderung",
+        "likes": 0,
+        "comments": []
     },
     {
-        "text": "Das Leben ist, was passiert, während du eifrig dabei bist, andere Pläne zu machen.",
-        "author": "John Lennon",
-        "category": "Leben"
+        "id": "7",
+        "text": "Erfolg ist die Fähigkeit, von einem Misserfolg zum anderen zu gehen, ohne den Enthusiasmus zu verlieren.",
+        "author": "Winston Churchill",
+        "category": "Erfolg",
+        "likes": 0,
+        "comments": []
     },
     {
-        "text": "Das Leben ist, was passiert, während du eifrig dabei bist, andere Pläne zu machen.",
-        "author": "John Lennon",
-        "category": "Leben"
+        "id": "8",
+        "text": "Das größte Vergnügen im Leben ist, das zu tun, von dem die Leute sagen, dass du es nicht tun kannst.",
+        "author": "Walter Bagehot",
+        "category": "Leben",
+        "likes": 0,
+        "comments": []
     },
     {
-        "text": "Das Leben ist, was passiert, während du eifrig dabei bist, andere Pläne zu machen.",
-        "author": "John Lennon",
-        "category": "Leben"
+        "id": "9",
+        "text": "Das Glück besteht nicht darin, was du hältst, sondern darin, was du gibst.",
+        "author": "Marianne Moore",
+        "category": "Glück",
+        "likes": 0,
+        "comments": []
     },
     {
-        "text": "Das Leben ist, was passiert, während du eifrig dabei bist, andere Pläne zu machen.",
-        "author": "John Lennon",
-        "category": "Leben"
+        "id": "10",
+        "text": "Das größte Glück im Leben liegt darin, zu lieben und geliebt zu werden.",
+        "author": "George Sand",
+        "category": "Liebe",
+        "likes": 0,
+        "comments": []
     },
     {
-        "text": "Das Leben ist, was passiert, während du eifrig dabei bist, andere Pläne zu machen.",
-        "author": "John Lennon",
-        "category": "Leben"
+        "id": "11",
+        "text": "Man kann niemals einen Ozean überqueren, wenn man nicht den Mut hat, die Küste aus den Augen zu verlieren.",
+        "author": "Christopher Columbus",
+        "category": "Mut",
+        "likes": 0,
+        "comments": []
     },
     {
-        "text": "Das Leben ist, was passiert, während du eifrig dabei bist, andere Pläne zu machen.",
-        "author": "John Lennon",
-        "category": "Leben"
+        "id": "12",
+        "text": "Die größte Entdeckung aller Zeiten ist, dass ein Mensch seine Zukunft ändern kann, indem er einfach seine Einstellung ändert.",
+        "author": "Oprah Winfrey",
+        "category": "Entdeckung",
+        "likes": 0,
+        "comments": []
     },
     {
-        "text": "Das Leben ist, was passiert, während du eifrig dabei bist, andere Pläne zu machen.",
-        "author": "John Lennon",
-        "category": "Leben"
+        "id": "13",
+        "text": "Nichts auf der Welt kann die Beharrlichkeit ersetzen.",
+        "author": "Calvin Coolidge",
+        "category": "Beharrlichkeit",
+        "likes": 0,
+        "comments": []
     },
     {
-        "text": "Das Leben ist, was passiert, während du eifrig dabei bist, andere Pläne zu machen.",
-        "author": "John Lennon",
-        "category": "Leben"
+        "id": "14",
+        "text": "Lernen ist nicht das Anhäufen von Wissen, sondern das Entzünden einer Flamme in der Seele.",
+        "author": "William Butler Yeats",
+        "category": "Lernen",
+        "likes": 0,
+        "comments": []
     },
     {
-        "text": "Das Leben ist, was passiert, während du eifrig dabei bist, andere Pläne zu machen.",
-        "author": "John Lennon",
-        "category": "Leben"
+        "id": "15",
+        "text": "Der Schlüssel zum Erfolg liegt darin, dass man anfängt, bevor man bereit ist.",
+        "author": "Marie Forleo",
+        "category": "Erfolg",
+        "likes": 0,
+        "comments": []
     },
     {
-        "text": "Das Leben ist, was passiert, während du eifrig dabei bist, andere Pläne zu machen.",
-        "author": "John Lennon",
-        "category": "Leben"
+        "id": "16",
+        "text": "Das Leben ist zu kurz, um in der Vergangenheit festzustecken. Bleib nicht stecken. Leben ist veränderbar und immer voller Möglichkeiten.",
+        "author": "Roy T. Bennett",
+        "category": "Leben",
+        "likes": 0,
+        "comments": []
     },
     {
-        "text": "Das Leben ist, was passiert, während du eifrig dabei bist, andere Pläne zu machen.",
-        "author": "John Lennon",
-        "category": "Leben"
+        "id": "17",
+        "text": "Wenn du weißt, was du wert bist, dann geh und hol es dir.",
+        "author": "Rihanna",
+        "category": "Selbstwert",
+        "likes": 0,
+        "comments": []
     },
     {
-        "text": "Das Leben ist, was passiert, während du eifrig dabei bist, andere Pläne zu machen.",
-        "author": "John Lennon",
-        "category": "Leben"
+        "id": "18",
+        "text": "Die Zukunft hängt davon ab, was du heute tust.",
+        "author": "Mahatma Gandhi",
+        "category": "Zukunft",
+        "likes": 0,
+        "comments": []
     },
     {
-        "text": "Das Leben ist, was passiert, während du eifrig dabei bist, andere Pläne zu machen.",
-        "author": "John Lennon",
-        "category": "Leben"
+        "id": "19",
+        "text": "Das Leben ist eine Reise, die nach vorne gerichtet ist, aber nur verstanden wird, wenn man zurückblickt.",
+        "author": "Søren Kierkegaard",
+        "category": "Leben",
+        "likes": 0,
+        "comments": []
     },
     {
-        "text": "Das Leben ist, was passiert, während du eifrig dabei bist, andere Pläne zu machen.",
-        "author": "John Lennon",
-        "category": "Leben"
-    },
-    {
-        "text": "Das Leben ist, was passiert, während du eifrig dabei bist, andere Pläne zu machen.",
-        "author": "John Lennon",
-        "category": "Leben"
-    },
-    {
-        "text": "Das Leben ist, was passiert, während du eifrig dabei bist, andere Pläne zu machen.",
-        "author": "John Lennon",
-        "category": "Leben"
-    },
-    {
-        "text": "Das Leben ist, was passiert, während du eifrig dabei bist, andere Pläne zu machen.",
-        "author": "John Lennon",
-        "category": "Leben"
-    },
-    {
-        "text": "Das Leben ist, was passiert, während du eifrig dabei bist, andere Pläne zu machen.",
-        "author": "John Lennon",
-        "category": "Leben"
-    },
-    {
-        "text": "Das Leben ist, was passiert, während du eifrig dabei bist, andere Pläne zu machen.",
-        "author": "John Lennon",
-        "category": "Leben"
+        "id": "20",
+        "text": "Glaube daran, dass du es kannst, und du bist schon halbwegs dort.",
+        "author": "Theodore Roosevelt",
+        "category": "Glaube",
+        "likes": 0,
+        "comments": []
     }
 ]

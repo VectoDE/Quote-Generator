@@ -1,13 +1,15 @@
 import React from 'react';
+import '../assets/css/QuoteView.css';
 
 const QuoteView = ({ quote }) => (
-    <div>
+    <div className="quote-container">
         {quote ? (
-            <div>
-                <p>"{quote.text}" - {quote.author}</p>
+            <div className="quote-content">
+                <p className="quote-text">"{quote.text}"</p>
+                <p className="quote-author">- {quote.author}</p>
             </div>
         ) : (
-            <p>Lade Zitat...</p>
+            <p className="loading-text">Lade Zitat...</p>
         )}
     </div>
 );

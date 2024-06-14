@@ -1,5 +1,5 @@
 import React from 'react';
-import '../assets/css/DangerButton.css'; // Erstelle und importiere diese Datei für benutzerdefiniertes Styling
+import '../assets/css/DangerButton.css';
 
 const DangerButton = ({ onClick, children }) => (
     <button className="danger-button" onClick={onClick}>

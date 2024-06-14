@@ -1,5 +1,5 @@
 import React from 'react';
-import '../assets/css/SocialShareButton.css'; // Stelle sicher, dass du das CSS importierst
+import '../assets/css/SocialShareButton.css';
 
 const SocialShareButton = ({ platform, url, text }) => {
     const shareUrl = encodeURIComponent(url);

@@ -1,5 +1,5 @@
 import React from 'react';
-import '../assets/css/PrimaryButton.css'; // Stelle sicher, dass du das CSS importierst, falls du es hast
+import '../assets/css/PrimaryButton.css';
 
 const PrimaryButton = ({ onClick, children }) => (
     <button className="primary-button" onClick={onClick}>

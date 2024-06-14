@@ -1,0 +1,24 @@
+.quote-container {
+    text-align: center;
+    margin: 20px;
+}
+
+.quote-content {
+    font-size: 1.5em;
+    color: #333;
+}
+
+.quote-text {
+    font-style: italic;
+}
+
+.quote-author {
+    margin-top: 10px;
+    font-weight: bold;
+    color: #555;
+}
+
+.loading-text {
+    font-size: 1.2em;
+    color: #777;
+}
